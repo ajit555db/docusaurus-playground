@@ -69,9 +69,7 @@ module.exports = {
 };
 ```
 
-The locale dropdown now appears in your navbar:
 
-![Locale Dropdown](/img/tutorial/localeDropdown.png)
 
 ## Build your localized site
 
